@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#deep-thought-chatbot-container {
+  z-index: 999999 !important;
+}
+
+body {
+  font-family: var(--font-rubik);
+}
+p {
+  text-align: justify;
+}
